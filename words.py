@@ -1,6 +1,6 @@
 import time
 
-text = "obese people are obese" # change to whatever you want
+text = "hello there general kenobi" # change to whatever you want
 print(f'thing to type: "{text}"\n')
 # stopwatch begins when the user hits enter
 input("wpm is graded on accuracy. hit enter to begin test")
